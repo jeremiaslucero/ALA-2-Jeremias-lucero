@@ -1,0 +1,15 @@
+1. Generalización simbólica: ¿Cuáles son las reglas escritas del lenguaje?
+La generalización simbólica se refiere a las reglas formales que indican cómo se debe escribir un programa en TypeScript y qué significa cada construcción.
+Algunas de las principales reglas son:
++Variables y constantes: se declaran utilizando let y const.
++Tipos de datos: TypeScript permite especificar tipos como number, string, boolean, array, entre otros.
++Estructuras secuenciales: las instrucciones se ejecutan en el orden en que aparecen.
++Estructuras de selección: se utilizan if, else y switch para tomar decisiones.
++Estructuras repetitivas: se utilizan for, while y do...while para repetir instrucciones.
++Funciones: permiten dividir el programa en bloques de código reutilizables, utilizando parámetros y valores de retorno.
++Operadores: existen operadores aritméticos, relacionales y lógicos para realizar operaciones y evaluar condiciones.
++Bloques de código: se delimitan mediante { }.
++Reglas sintácticas: el código debe respetar la sintaxis definida por TypeScript para poder ser compilado correctamente a JavaScript.
+2. Creencias de los profesionales
+Las creencias de los profesionales son las ideas o características que los programadores consideran particularmente convenientes o ventajosas de un lenguaje frente a otros.
+En el caso de TypeScript, algunas características que suelen valorarse son:Tipado estático,Mayor facilidad para detectar errores,Compatibilidad con JavaScript,Mejor mantenimiento del código,Herramientas de desarrollo,Escalabilidad
